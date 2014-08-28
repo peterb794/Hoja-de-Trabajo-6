@@ -12,6 +12,7 @@ public class Driver {
     
     public static void Main(){
     System.out.println("hola");
+    System.out.println("hola");
 }
     
 }
